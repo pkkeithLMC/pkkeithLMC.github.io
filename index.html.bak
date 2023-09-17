@@ -1,7 +1,17 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub pages. <b>
+This is new</p>
+</body>
+=======
 <!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub pages.</p>
 </body>
+>>>>>>> f317d45f9f7452b9c5c7dde8667fb303c1003345
 </html>
