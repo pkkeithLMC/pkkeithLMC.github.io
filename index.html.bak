@@ -1,15 +1,16 @@
-
 <!DOCTYPE html>
-<html>
 <meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>
+<html>
+
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub pages. <br>
 This is new <br>
 This is new also<br>
 This is another new thing<br>
-One last new thing</p>
+One last new thing<br>
+Just kidding</p>
 </body>
 </html>
